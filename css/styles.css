@@ -30,3 +30,9 @@ address{
     color:rgb(49, 45, 45);
 }
  
+body{
+    padding-top: 50px;
+}
+.navbar{
+    background-color:rgb(93, 14, 167);
+}
